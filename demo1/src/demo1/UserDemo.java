@@ -8,8 +8,13 @@ public class UserDemo {
 		
 	}
 	
-	//更新方法
+	//鏇存柊鎿嶄綔
 	public boolean updateUser() {
+		return false;
+	}
+	
+	//鍒犻櫎鎿嶄綔
+	public boolean deleteUser() {
 		return false;
 	}
 }
