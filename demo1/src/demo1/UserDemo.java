@@ -27,5 +27,7 @@ public class UserDemo {
 	public void sb2() {
 
 	}
+	public void sb1() {
 
+	}
 }
