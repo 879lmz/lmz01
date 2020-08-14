@@ -7,4 +7,9 @@ public class UserDemo {
 	public void addUser() {
 		
 	}
+	
+	//更新方法
+	public boolean updateUser() {
+		return false;
+	}
 }
