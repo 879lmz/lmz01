@@ -17,9 +17,5 @@ public class UserDemo {
 	public boolean deleteUser() {
 		return false;
 	}
-	
-	//sbbbbbbbbbbbb
-	public boolean sb() {
-		return false;
-	}
+
 }
