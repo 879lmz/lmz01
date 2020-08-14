@@ -30,4 +30,9 @@ public class UserDemo {
 	public void sb1() {
 
 	}
+	
+	//什么东西
+	public void zy() {
+		
+	}
 }
