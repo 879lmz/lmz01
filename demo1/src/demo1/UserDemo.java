@@ -17,4 +17,8 @@ public class UserDemo {
 	public boolean deleteUser() {
 		return false;
 	}
+	//你才是sb
+	public void sb1() {
+		
+	}
 }
